@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cd42591d3ee7ded44a853c39effd7459
+timeCreated: 1474449245
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73777
+  packageName: Legacy Particle Pack
+  packageVersion: 1.8
+  assetPath: Assets/FX/VFX/Particle System/ParticlePack/EffectExamples/Weapon Effects/Textures/BloodSplat2.mat
+  uploadId: 563305

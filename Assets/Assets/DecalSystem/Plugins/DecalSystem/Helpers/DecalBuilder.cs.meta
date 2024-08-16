@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f98e1d5baaf96ac479488444c07c9a0a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13889
+  packageName: Simple Decal System
+  packageVersion: 1.2
+  assetPath: Assets/DecalSystem/Plugins/DecalSystem/Helpers/DecalBuilder.cs
+  uploadId: 265903

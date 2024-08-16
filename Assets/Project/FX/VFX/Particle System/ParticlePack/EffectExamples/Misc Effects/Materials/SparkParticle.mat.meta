@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15a9e424d28f5a0488f8ffe2de778ea2
+timeCreated: 1473684431
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73777
+  packageName: Legacy Particle Pack
+  packageVersion: 1.8
+  assetPath: Assets/FX/VFX/Particle System/ParticlePack/EffectExamples/Misc Effects/Materials/SparkParticle.mat
+  uploadId: 563305

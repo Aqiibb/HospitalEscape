@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 01ed8a52f949e6f44837bef94994e0cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13889
+  packageName: Simple Decal System
+  packageVersion: 1.2
+  assetPath: Assets/DecalSystem/Plugins/DecalSystem/Helpers/MeshUtils.cs
+  uploadId: 265903

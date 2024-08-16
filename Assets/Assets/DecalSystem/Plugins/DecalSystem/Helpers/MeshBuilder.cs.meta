@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 78b7ea334c41b8e4fb62c656f282d88d
+timeCreated: 1491304440
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13889
+  packageName: Simple Decal System
+  packageVersion: 1.2
+  assetPath: Assets/DecalSystem/Plugins/DecalSystem/Helpers/MeshBuilder.cs
+  uploadId: 265903

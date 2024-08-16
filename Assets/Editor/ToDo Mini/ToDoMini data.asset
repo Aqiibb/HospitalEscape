@@ -1,0 +1,274 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08a606916b18b974bb94d44eb8800f1c, type: 3}
+  m_Name: ToDoMini data
+  m_EditorClassIdentifier: 
+  displayDensity: 0
+  keepCompletedTasks: 1
+  showCompletedTasks: 0
+  items:
+  - task: Dynamic DoF
+    isComplete: 1
+  - task: Organization Project
+    isComplete: 0
+  - task: Shader Fix
+    isComplete: 1
+  - task: Map > Level > Sceenes Scope
+    isComplete: 0
+  - task: Detect + Write + Enhanse Story
+    isComplete: 0
+  - task: 'Correct Scripts Naming '
+    isComplete: 0
+  - task: 'Diside Unity Version '
+    isComplete: 1
+  - task: 'Volume '
+    isComplete: 1
+  - task: 'CrowBar Swing Attack '
+    isComplete: 0
+  - task: Envarimental Interraction Scripts
+    isComplete: 0
+  - task: 'Menu > Sittings '
+    isComplete: 1
+  - task: Preformenc Shiknig
+    isComplete: 0
+  - task: 'Damage Heart Breakin Attack feel + ear ringing + Deep Beam + camera rotate
+      to ground + time slow + post prosess exposer + lens Distortion + audio mixer
+      + bloom up '
+    isComplete: 0
+  - task: 'Blure Enemys > Raven Fur > Glish '
+    isComplete: 0
+  - task: fix the jump scar the enemy dosnt dissapear + add fading + screene blinks
+      for him to fade
+    isComplete: 0
+  - task: 'lot of easy go hard out '
+    isComplete: 0
+  - task: Envarement Script > Animation > Movements
+    isComplete: 0
+  - task: Cloths
+    isComplete: 0
+  - task: Decals
+    isComplete: 0
+  - task: 'he well see the sword like on the wall as a decore for example on the
+      start of the game bbut he wouldnt take kare of it intell he get followed by
+      somthing '
+    isComplete: 0
+  - task: 'variate the game based on sections like the space star wars game , each
+      for the best '
+    isComplete: 0
+  - task: Blure The Enemys Shape
+    isComplete: 0
+  - task: left mouse + hit
+    isComplete: 0
+  - task: hou cant re attack fast , intell the attack ends
+    isComplete: 0
+  - task: 'vibrations '
+    isComplete: 0
+  - task: GDD
+    isComplete: 0
+  - task: 'Fix Prefabs : Room + post pro volume . ...'
+    isComplete: 0
+  - task: a goal for the game loop what the player well do ? just collecting ? fighting
+      how ? Surviving ? Exploring ?
+    isComplete: 0
+  - task: 'Write Size & Player Speed + Nois Indicator '
+    isComplete: 0
+  - task: 'Light Fliquering Impact the Emmision Intensity '
+    isComplete: 0
+  - task: 'The Player Cant Go iN Dark The Monsters Will Take Hime He Must Stay In
+      light , ther is some wall hours that indicate win the light well get out ,
+      he must explore and do good planing , he well find flasj=h light that fliquer
+      and turned out of electricity , he will discover that he can charge it by the
+      walls electricity , he must get back to his room becaus the light dosent run
+      out from it , like a shoke wave from inside wen the light turneds off a bit
+      like big explosion '
+    isComplete: 0
+  - task: add candle + sharged flash blast + fire flys to generate light as much
+      as possible
+    isComplete: 0
+  - task: some very low random risk that it well turned of befaur the time resk
+    isComplete: 0
+  - task: 'the lights turned of fast progressivly toward his room '
+    isComplete: 0
+  - task: 'he must know the exit of the maze '
+    isComplete: 0
+  - task: he cauth he wake up
+    isComplete: 0
+  - task: Player Item Schnge + Player Sfx + Foot Step + Herat Beat
+    isComplete: 0
+  - task: 'Difrent hights levels '
+    isComplete: 0
+  - task: 'how a real hospital is dissigned and a war one , were the placement of
+      everything , prizon dissigne '
+    isComplete: 0
+  - task: that cool gold hands monster
+    isComplete: 0
+  - task: 'some decline rotations senarios '
+    isComplete: 0
+  - task: sword shooter mode
+    isComplete: 1
+  - task: 2x the room size
+    isComplete: 1
+  - task: cinemachine for the cutsceenes
+    isComplete: 1
+  - task: clock sfx
+    isComplete: 1
+  - task: light fliker sfx
+    isComplete: 1
+  - task: clean warnings
+    isComplete: 1
+  - task: 'incline Stair That needs croush '
+    isComplete: 0
+  - task: Very Dark Eriyas That he Must have light or jump scare plus light
+    isComplete: 1
+  - task: decals and wast on the ground
+    isComplete: 1
+  - task: bath room exploration
+    isComplete: 1
+  - task: 'he said maze '
+    isComplete: 1
+  - task: 'horror font '
+    isComplete: 1
+  - task: menu dissigne + menu effects
+    isComplete: 1
+  - task: cloone lothing sound
+    isComplete: 1
+  - task: coridor jump scare
+    isComplete: 1
+  - task: door opining jump scare
+    isComplete: 0
+  - task: 'While Share + trigger move '
+    isComplete: 0
+  - task: 2 point lights protecting the shadow
+    isComplete: 0
+  - task: 'kids toys '
+    isComplete: 0
+  - task: did bodys
+    isComplete: 0
+  - task: Deving Cups
+    isComplete: 0
+  - task: 'bieng lost is part of the journey '
+    isComplete: 0
+  - task: read note system
+    isComplete: 0
+  - task: better speak system + rename scripts + project size + folder organization
+    isComplete: 0
+  - task: Dynamic Light
+    isComplete: 0
+  - task: 'light fire flys '
+    isComplete: 0
+  - task: trash
+    isComplete: 0
+  - task: 'use lockers and paintings '
+    isComplete: 0
+  - task: note system
+    isComplete: 0
+  - task: activate sceene after cut sceene
+    isComplete: 0
+  - task: replace withe the prefab canvas
+    isComplete: 0
+  - task: on trigger = tension sound > destroy
+    isComplete: 0
+  - task: 'on trigger random delay action trigger '
+    isComplete: 0
+  - task: 'player scare value = heart beat sound + auto rotate to look at '
+    isComplete: 0
+  - task: move on direction
+    isComplete: 0
+  - task: 'pick up +script : Tag "Pick" + crosshair indicator if ray cast hit tag
+      + pick up logic = bool if it''s note display relative note to it from a list
+      or somthind in canvas and make sure to kype esy and organize and funtional
+      and make looking time after that if it note it well not move or somthing !
+      + if type object remenber that it has been collected to solve other pussles
+      no player prefs are need just during the game time '
+    isComplete: 0
+  - task: improve materials and models
+    isComplete: 0
+  - task: Bloody Dark Ey
+    isComplete: 1
+  - task: Deep dark angel sound
+    isComplete: 1
+  - task: electricity
+    isComplete: 0
+  - task: flys
+    isComplete: 0
+  - task: COLLISION SFX
+    isComplete: 0
+  - task: HARY POTER 1 SIDE WALL
+    isComplete: 0
+  - task: ADD BUTTERFLY AND SIMPLE MAGICAL EFFECTS
+    isComplete: 0
+  - task: 1.5 HOUR ORGANIZE
+    isComplete: 0
+  - task: FIND HEART EYS AND DESTROY THEM TO WIN THE CLOWN AND TOYS CURSED DEVIN
+    isComplete: 0
+  - task: 0 warnings
+    isComplete: 0
+  - task: loading canvas
+    isComplete: 0
+  - task: debugging
+    isComplete: 0
+  - task: refactore scripts
+    isComplete: 0
+  - task: Better Interraction
+    isComplete: 0
+  - task: 'Switch The Editore Version wene ever you like '
+    isComplete: 0
+  - task: crow bar box collider
+    isComplete: 0
+  - task: you have 2 sec to hit hime befaure he do and you restart
+    isComplete: 0
+  - task: More Enemy Enhancement
+    isComplete: 0
+  - task: list not reading system
+    isComplete: 0
+  - task: camera shake + scream laughf
+    isComplete: 0
+  - task: add more cables
+    isComplete: 0
+  - task: Organize Project
+    isComplete: 0
+  - task: Superate the cutSceene Completly From The Level
+    isComplete: 0
+  - task: 'Door Open Animation Light , Smouth Camera Switch , Rotation of the camera
+      the clown is Crazy , KIds On the wals Murderd and the screene Gets Red '
+    isComplete: 0
+  - task: 'replace colliders By Box Coliders '
+    isComplete: 0
+  - task: 'No Cliping , better visuals , same or better preformence '
+    isComplete: 0
+  - task: Organize Hierarchy ,
+    isComplete: 0
+  - task: 'use prefabs and edit them '
+    isComplete: 0
+  - task: better interraction Sys
+    isComplete: 0
+  - task: 'moore particles '
+    isComplete: 0
+  - task: 'betterlightbacking '
+    isComplete: 0
+  - task: the attack under the crow bar , the light off under the light , the switch
+      weapon under manager player
+    isComplete: 0
+  - task: 'Use Box Jump Scare '
+    isComplete: 0
+  - task: moore feedbak feel
+    isComplete: 0
+  - task: 'Dos he have got the key script '
+    isComplete: 0
+  - task: Defrent holy section
+    isComplete: 0
+  - task: 'like scratch , event trigger , event interracter , event script or function
+      , swap the triger type , the interraction or event type , is it inventored
+      event , menu event , pickuped event type '
+    isComplete: 0
+  - task: 'saweb isar ? bzaf diyal mlayat f blayes do lkhaser '
+    isComplete: 0

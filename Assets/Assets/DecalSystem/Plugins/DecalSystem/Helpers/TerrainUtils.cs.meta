@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ec077f7ca288834686f1a0213bf22c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13889
+  packageName: Simple Decal System
+  packageVersion: 1.2
+  assetPath: Assets/DecalSystem/Plugins/DecalSystem/Helpers/TerrainUtils.cs
+  uploadId: 265903

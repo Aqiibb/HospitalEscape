@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 198779ae7962ad749a759a411dca66b2
+timeCreated: 1473851832
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73777
+  packageName: Legacy Particle Pack
+  packageVersion: 1.8
+  assetPath: Assets/FX/VFX/Particle System/ParticlePack/EffectExamples/Goop Effects/Materials/BloodSplatParticle.mat
+  uploadId: 563305

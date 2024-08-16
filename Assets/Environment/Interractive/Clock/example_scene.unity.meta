@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9d1dfbf3196052d4fba6e88539420f4e
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 4250
+  packageName: Clock
+  packageVersion: 1.1
+  assetPath: Assets/Clock/example_scene.unity
+  uploadId: 524319

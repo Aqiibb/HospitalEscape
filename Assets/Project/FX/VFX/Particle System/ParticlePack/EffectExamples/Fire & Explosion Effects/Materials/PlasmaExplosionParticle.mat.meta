@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6d501ac5a295e854f9b7ca15cb605f33
+timeCreated: 1472829232
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73777
+  packageName: Legacy Particle Pack
+  packageVersion: 1.8
+  assetPath: Assets/FX/VFX/Particle System/ParticlePack/EffectExamples/Fire & Explosion
+    Effects/Materials/PlasmaExplosionParticle.mat
+  uploadId: 563305
